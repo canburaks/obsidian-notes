@@ -5,14 +5,13 @@ share: true
 ---
 
 ## Food Places
-A bunch of places that I suggest people who are not native in Istanbul. I went  those places at least once and liked them.  
+A bunch of places that I suggest to people who are not native to Istanbul. I went to those places at least once and liked them. Those are personal suggestions and doesn't include any affiliation.
+
 
 ### Lades (Breakfast & Lunch)
 Menemen is basically a local food prepared with eggs scrambled with tomatoes and green pepper. It looks like simple food. However, if you try it at Lades Restaurant, you'll be amazed.  It has been rated the __Best Menemen Maker__ by newspapers for years.
 It is as as delicious as a meal made with these ingredients can be. They are chosen always as the best menemen maker in the country.
-
 [Generic Menemen Pictures](https://www.google.com/search?q=menemen&oq=menemen&aqs=chrome..69i57j46i512j46i67i175i199j0i512l2j69i60l3.953j0j1&sourceid=chrome&ie=UTF-8)
-
 [Address](https://www.google.com/maps/place/Lades+Menemen/@41.034562,28.9807584,15z/data=!4m5!3m4!1s0x0:0xe4209e430f1f2b10!8m2!3d41.034562!4d28.9807584)
 
 
@@ -24,22 +23,16 @@ You'll see many local fast-food company near Taksim square. Despite all of them 
 ### Fıccın (Lunch & Dinner)
 FICCIN Beyoğlu is one of the legendary restaurants of Kallavi street. Run by two  sisters, this restaurant is one of the favorite restaurants of those working in the Beyoğlu area.
 It can be preferred for breakfast, lunch and dinner. They have a wide menu including rich tastes of Circassian cuisine.
-
 [Address](https://www.google.com/maps/place/F%C4%B1cc%C4%B1n+Restoran/@41.0325373,28.9754715,15z/data=!4m2!3m1!1s0x0:0x666ddddb1f030713?sa=X&hl=en&ved=2ahUKEwiSpoav_6D3AhXNSfEDHTYQCBoQ_BJ6BAh8EAU)
 
 ### Nizam Pide (Lunch & Dinner)
 Nizam is a restaurant that serves local Turkish and Anatolian cuisine.
 Their milk desserts are just as delicious as their kebabs. I personally like their various pide (pittahs) options and chicken grill.
 You should also try a local dessert named Sütlaç (Rice pudding).  Nizam is one of the best sütlaç makers in the region.
-
 [Generic Pide images](https://www.google.com/search?q=pide&tbm=isch&ved=2ahUKEwi22YLpgrf4AhWi8bsIHfRqB_cQ2-cCegQIABAA&oq=pide&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BAgAEB46BggAEAoQGDoECAAQGDoHCCMQ6gIQJ1DmBFi9CWCtDGgBcAB4AIABmwGIAe0EkgEDMC41mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=vsetYraCN6Lj7_UP9NWduA8&bih=888&biw=1920): 
-
 [Rice pudding image](https://www.nizampide.com/wp-content/uploads/2018/07/f%C4%B1nd%C4%B1kl%C4%B1-kuru-%C3%BCz%C3%BCml%C3%BC-f%C4%B1r%C4%B1n-s%C3%BCtla%C3%A7-nizam-pide-beyo%C4%9Flu-harbiye-istiklal-caddesi-hamsik%C3%B6y-s%C3%BCtlac%C4%B1.jpg) 
  
 You can find the restaurant around Galatasaray High School. Here is the [Address](https://www.google.com/search?q=nizam%20s%C3%BCtla%C3%A7&source=lmns&bih=888&biw=1920&hl=en&sa=X&ved=2ahUKEwjlwO_Tg7f4AhVvQvEDHYL1DS4QvS56BAgKEAE&tbs=lf:1,lf_ui:3&tbm=lcl&sxsrf=ALiCzsZa73CXAvcKlgFSBR2M97zDKNiiwA:1655556254990&rflfq=1&num=10&rldimm=8012815143535410426&lqi=Cg5uaXphbSBzw7x0bGHDp0j9o4GS5oCAgAhaGhAAEAEYACIObml6YW0gc8O8dGxhw6cyAnRykgEQc2ZpaGFfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOSE9HWXplR1YzRUFFqgEhCgkvbS8wM2d6bHAQASoSIg5uaXphbSBzw7x0bGHDpygh&rlst=f#rlfi=hd:;si:8012815143535410426,l,Cg5uaXphbSBzw7x0bGHDp0j9o4GS5oCAgAhaGhAAEAEYACIObml6YW0gc8O8dGxhw6cyAnRykgEQc2ZpaGFfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOSE9HWXplR1YzRUFFqgEhCgkvbS8wM2d6bHAQASoSIg5uaXphbSBzw7x0bGHDpygh;mv:[](41.050786099999996,28.987998200000003);tbs:lrf:!1m4!1u3!2m2!3m1!1e1!2m1!1e3,lf:1) 
-
-
-
 
 
 ### Midpoint (Dinner)
@@ -67,10 +60,15 @@ Lavazza is a cool coffee house that located in front of the Galata Tower.  I lik
 [Address](https://www.google.com/maps/place/Lavazza+Best+Coffee+Shop/@41.0259668,28.9733807,19z/data=!3m1!4b1!4m5!3m4!1s0x14cab9e70f6c3f11:0x185d7c31e0fac765!8m2!3d41.0259668!4d28.9739279?hl=en)
 
 
+### App for ordering food: Yemek Sepeti
+You can also order food with a mobie app namely Yemek Sepeti. Most of food places are registered on the app. You can order almost anything from the app. I'm not sure it requires a local phone number or not but can be try.
+[Android](https://play.google.com/store/apps/details?id=com.inovel.app.yemeksepeti&hl=en&gl=US)
+[iOS](https://apps.apple.com/tr/app/yemeksepeti-yemek-market/id373034841?l=tr)
 
 ## Security & Complaints
 
 ### Important Phone Numbers
+Those are the numbers you need in case of an emergency.
 - **Medical Emergency (Ambulance):** 112
 - **Tourism Police:** [+90 212 527 45 03](tel: +902125274503)
 - **Fire Department:** 110
